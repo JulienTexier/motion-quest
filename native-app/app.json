@@ -8,6 +8,13 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
+    // EAS setup
+    "owner": "jtexier",
+    "extra": {
+      "eas": {
+        "projectId": "ef5ba7b4-0e77-47c9-94f2-a08e7c7fbdb7"
+      }
+    },
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
