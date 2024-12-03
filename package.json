@@ -1,0 +1,13 @@
+{
+  "name": "motion-quest",
+  "version": "1.0.0",
+  "type": "module",
+  "workspaces": [
+    "native-app",
+    "server"
+  ],
+  "scripts": {
+    "start:app": "cd native-app && npm run start",
+    "start:server": "cd server && npm run start"
+  }
+}
